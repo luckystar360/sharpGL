@@ -1,0 +1,4 @@
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL\bin\Debug\SharpGL.dll
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL\bin\Debug\SharpGL.pdb
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL\obj\Debug\SharpGL.dll
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL\obj\Debug\SharpGL.pdb

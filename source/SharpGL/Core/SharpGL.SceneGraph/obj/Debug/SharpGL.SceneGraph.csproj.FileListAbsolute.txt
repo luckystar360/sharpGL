@@ -1,0 +1,7 @@
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL.SceneGraph\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL.SceneGraph\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL.SceneGraph\bin\Debug\SharpGL.dll
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL.SceneGraph\bin\Debug\SharpGL.pdb
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL.SceneGraph\obj\Debug\SharpGL.SceneGraph.csprojResolveAssemblyReference.cache
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL.SceneGraph\obj\Debug\SharpGL.SceneGraph.dll
+C:\Users\UAV\Downloads\sharpgl-master\sharpgl-master\source\SharpGL\Core\SharpGL.SceneGraph\obj\Debug\SharpGL.SceneGraph.pdb
